@@ -4,7 +4,7 @@ A Computer Science Engineering studen, passionate about web development and game
 I love learn new technologies, and experiment with them, build some small projects for practice.
 
  🔭 I’m currently working on my chat bot for twitch and add a game to interact with the viewers.
-- 🌱 I’m currently learning about mobile development and the public cloud.
+ 🌱 I’m currently learning about mobile development and the public cloud.
 
 <!--
 **ArssG/ArssG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
