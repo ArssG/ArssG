@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Eduardo 
-A Computer Science Engineering studen, passionate about web development and game develoment. Also have some experience using linux.
+A Computer Science Engineering student, passionate about web development and game develoment. Also have some experience using linux.
 
 I love learn new technologies, and experiment with them, build some small projects for practice.
 
