@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a Computer Science Engineer with a passion for learning about cutting-edge technologies and experimenting with them to build meaningful projects. My current focus lies in the infrastructure domain, where I specialize in monitoring both on-premises and cloud environments.
+🔭 I am a Computer Science Engineer with a passion for learning about cutting-edge technologies and experimenting with them to build meaningful projects. My current focus lies in the infrastructure, where I specialize in monitoring both on-premises and cloud environments.
 
 I am particularly intrigued by the vast possibilities that cloud computing offers, and I am actively expanding my knowledge in this area. Committed to staying at the forefront of technological advancements, I am dedicated to continuous learning and leveraging my skills to contribute to innovative projects.<br>
 
